@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) 👋
 > Meu nome é Laila e sou Desenvolvedora Front-end <br />
-<sup>Infelizmente meu antigo perfil hackeado, então este é meu novo perfil desde 07/2024 <sup />
+<sup>Infelizmente meu antigo perfil foi desativado, então este é meu novo perfil desde 07/2024 <sup />
 
  <br />
  🛠 &nbsp;Tech Stack
