@@ -42,11 +42,7 @@ Desenvolvedora front-end com experiência em aplicações web e mobile de alta p
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cslaila/cslaila/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cslaila/cslaila/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/cslaila/cslaila/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crlaila&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
