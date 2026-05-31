@@ -35,17 +35,7 @@ Desenvolvedora front-end com experiência em aplicações web e mobile de alta p
 - **Mobile** — Apps cross-platform com React Native e Expo, integração Firebase
 - **Arquitetura** — TypeScript strict, state management escalável, code splitting, lazy loading
 - **Qualidade** — Testes, linting, documentação, CI/CD
-
----
-
-### Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crlaila&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
+  
 ---
 
 <div align="center">
