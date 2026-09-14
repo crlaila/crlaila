@@ -13,19 +13,20 @@
 
 ### Sobre
 
-Desenvolvedora front-end com experiência em aplicações web e mobile de alta performance. Trabalho com arquitetura moderna, código limpo e foco em experiência do usuário — do design system ao deploy.
+Desenvolvedora Front-end há 8 anos, trabalhando com React, Next.js e TypeScript. Hoje atuo em uma plataforma de processamento de crédito para o varejo, onde sou responsável técnica do front-end: defino a arquitetura, escrevo a documentação de padrões e reviso o código do time. Antes disso, passei por agências entregando campanhas de alto tráfego para Itaú, Honda, Tramontina, BV Financeira dentre outros. Tenho experiência com micro frontends, autenticação com AWS Cognito, ReactFlow pra criação de fluxogramas.
 
 ---
 
 ### Stack
 
-**Frontend** · React · Next.js · TypeScript · Tailwind CSS · Material UI
-
-**Mobile** · React Native · Expo · Firebase
-
-**State & Data** · Zustand · Redux · React Query
-
-**Tooling** · Node.js · Docker · Git · ESLint · Prettier
+**Linguagens**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+**Front-end**: React, Next.js, React Native, micro frontends (single-spa), Tailwind CSS, Styled-components, ShadCN/UI, React Flow, SASS, Design System
+**Estado e dados**: Zustand, Redux, Context API, React Query (TanStack Query), Zod, React Hook Form, REST APIs, GraphQL
+**Testes e qualidade**: Jest, React Testing Library, Cypress, ESLint, Prettier, code review, Clean Code, SOLID
+**Performance e SEO**: Core Web Vitals, Lighthouse, code splitting, lazy loading, otimização de bundle, SEO técnico, acessibilidade (WCAG)
+**DevOps e cloud**: Git, GitHub, GitLab CI/CD, AWS (Amplify, Cognito, S3), Vercel
+**Processos**: Scrum, Kanban, refinamento técnico, documentação de padrões
+**Ferramentas**: Figma, Storybook, Jira, Postman, VS Code
 
 ---
 
