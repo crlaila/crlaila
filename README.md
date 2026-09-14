@@ -20,12 +20,19 @@ Desenvolvedora Front-end há 8 anos, trabalhando com React, Next.js e TypeScript
 ### Stack
 
 **Linguagens**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+
 **Front-end**: React, Next.js, React Native, micro frontends (single-spa), Tailwind CSS, Styled-components, ShadCN/UI, React Flow, SASS, Design System
+
 **Estado e dados**: Zustand, Redux, Context API, React Query (TanStack Query), Zod, React Hook Form, REST APIs, GraphQL
+
 **Testes e qualidade**: Jest, React Testing Library, Cypress, ESLint, Prettier, code review, Clean Code, SOLID
+
 **Performance e SEO**: Core Web Vitals, Lighthouse, code splitting, lazy loading, otimização de bundle, SEO técnico, acessibilidade (WCAG)
+
 **DevOps e cloud**: Git, GitHub, GitLab CI/CD, AWS (Amplify, Cognito, S3), Vercel
+
 **Processos**: Scrum, Kanban, refinamento técnico, documentação de padrões
+
 **Ferramentas**: Figma, Storybook, Jira, Postman, VS Code
 
 ---
